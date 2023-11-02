@@ -1,10 +1,10 @@
 # SysInspectorPDF
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/reportlab)
+
 [![logo](https://github.com/jairurvites/SysInspectorPDF/assets/149709328/baaa1f3b-8e71-4644-847a-15d157f706f0)](https://jairuribe.lat/)
 
-
-![GitHub last commit](https://img.shields.io/github/last-commit/jairurvites/SysInspectorPDF)
-![GitHub](https://img.shields.io/github/license/jairurvites/SysInspectorPDF)
 
 SysInspectorPDF es una herramienta de Python que genera un informe en formato PDF que contiene información detallada sobre las especificaciones técnicas de una computadora. Este informe incluye detalles sobre el sistema operativo, el procesador, la memoria RAM, el uso de la CPU y una lista de los programas en ejecución.
 
